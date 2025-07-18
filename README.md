@@ -13,9 +13,13 @@ A simple, clean starter template for full-stack web applications built with:
 ## 📁 Folder Structure
 
 ├── client/ # React frontend (Vite, Tailwind, React Router)
+
 ├── server/ # Express backend (API logic, routes, controllers)
+
 ├── .gitignore
+
 ├── README.md
+
 └── package.json (optional root scripts)
 
 
@@ -87,10 +91,17 @@ node server.js
 
 🛠 Technologies Used
 Tech	Usage
+
 React	Frontend UI
+
 Tailwind CSS	Styling
+
 Express.js	Backend API
+
 Node.js	Runtime
+
 Vite	React dev server
+
 React Router DOM	Client-side routing
+
 CORS	API access control
