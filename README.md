@@ -41,7 +41,7 @@ git init
 ```
 
 
-3. Install Dependencies
+### 3. Install Dependencies
 📦 Frontend
 
 
@@ -58,7 +58,7 @@ npm install
 
 ```
 
-4. Run the App
+### 4. Run the App
 ▶ Start Frontend (React)
 
 ```bash
@@ -90,18 +90,13 @@ node server.js
 
 
 🛠 Technologies Used
-Tech	Usage
+| Tech             | Usage               |
+| ---------------- | ------------------- |
+| React            | Frontend UI         |
+| Tailwind CSS     | Styling             |
+| Express.js       | Backend API         |
+| Node.js          | Runtime             |
+| Vite             | React dev server    |
+| React Router DOM | Client-side routing |
+| CORS             | API access control  |
 
-React	Frontend UI
-
-Tailwind CSS	Styling
-
-Express.js	Backend API
-
-Node.js	Runtime
-
-Vite	React dev server
-
-React Router DOM	Client-side routing
-
-CORS	API access control
